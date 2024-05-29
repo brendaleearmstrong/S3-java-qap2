@@ -8,7 +8,6 @@ public class Money {
         this.amount = amount;
     }
 
-    // Copy constructor
     public Money(Money other) {
         this.amount = other.amount;
     }
